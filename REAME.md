@@ -9,3 +9,9 @@
   - source source <venv>/bin/activate
   - pip -r install requirements.txt
 - install extension python
+
+## notebook.ipynb
+
+- shift+enter : new section
+- dd : delete section
+- ctrl + enter : run
