@@ -15,3 +15,5 @@
 - shift+enter : new section
 - dd : delete section
 - ctrl + enter : run
+
+## langchain 3.5 turbo latest version,
